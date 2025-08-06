@@ -1,3 +1,3 @@
-# Repository for Activities 9.1 and 9.2
+# Repository for Image Processing and other Open-Source Intel scraper scripts
 
-Access PCDE-Activity 9.1 [here](https://github.com/petercly/PCDE-Activity-9.1). 
+This is a personal repository for small tools I use over the course of my work or hobbies. It might include little ones made for fun too :)
